@@ -29,16 +29,3 @@ To get started with Sentiment Analysis with OpenCV, follow these steps:
 
 For more detailed usage instructions and documentation, please refer to the [Wiki](wiki/).
 
-## Contributing
-
-We welcome contributions from the open-source community. Whether it's bug fixes, new features, or improvements to documentation, your help is highly appreciated. Please read our [Contribution Guidelines](CONTRIBUTING.md) for more information on how to contribute.
-
-
-
-## Acknowledgments
-
-We would like to thank the open-source community and the contributors who have made this project possible. Your support and contributions are invaluable.
-
----
-
-Start using Sentiment Analysis with OpenCV today and enhance your applications with emotion-aware functionality! If you have any questions or need assistance, please don't hesitate to [guptavaishali258@gmail.com]
