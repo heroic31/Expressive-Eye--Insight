@@ -3,7 +3,7 @@
 #
 
 ## Overview
-"Sentiment Analysis with OpenCV: This project leverages OpenCV for real-time sentiment analysis on video data. It detects facial expressions, processes emotions, and provides sentiment scores, enhancing human-computer interaction. A valuable tool for emotion-aware applications. #OpenCV #SentimentAnalysis #EmotionRecognition"
+"Expressive Insight: This project leverages OpenCV for real-time sentiment analysis on video data. It detects facial expressions, processes emotions, and provides sentiment scores, enhancing human-computer interaction. A valuable tool for emotion-aware applications. #OpenCV #SentimentAnalysis #EmotionRecognition"
 
 Sentiment Analysis with OpenCV is a comprehensive project that utilizes computer vision techniques to analyze the sentiment and emotions of individuals in real-time video streams. This repository provides the tools and code necessary to perform sentiment analysis on video data, making it a valuable resource for applications that require emotion-aware interactions, such as video conferencing, customer feedback analysis, and more.
 
