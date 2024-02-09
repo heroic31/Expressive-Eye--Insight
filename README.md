@@ -1,4 +1,4 @@
-# Sentiment Analysis with OpenCV
+# Expressive Insight
 # AUTHOR:VAISHALI GUPTA
 #
 
